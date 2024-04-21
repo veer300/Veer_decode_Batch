@@ -30,7 +30,7 @@ name of variable should be meaning : (loke in real word)
     Data type : Primitive :They are simple ,they are immutable :(Once define you can't change) 
       Non Primitive :Complex they are mutable ;you can change:
        Non Primive:Shaid afiride : after sanyas he came back again and again
-      Primitve: MS Dhoni : after sanyas he did't come back :
+      Primitve: MS Dhoni : after all  sanyas he did't come back :
       Primive :8 data type:
       Non Primitive :Objects aate hai:
       */
